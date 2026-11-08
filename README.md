@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mayssa-Ghouma&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Location-Tunisia%20🇹🇳-E70013?style=for-the-badge" alt="location" />
 <img src="https://img.shields.io/badge/Status-Engineering%20Student-8A2BE2?style=for-the-badge" alt="status" />
 

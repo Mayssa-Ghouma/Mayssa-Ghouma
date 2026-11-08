@@ -1,7 +1,7 @@
  <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mayssa%20Ghouma&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineering%20%7C%20Big%20Data%20%7C%20AI&descAlignY=58&descSize=23" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mayssa%20Ghouma&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineering%20%7C%20BI%20%7C%20AI&descAlignY=58&descSize=23" width="100%" alt="header" />
 
 <a href="https://github.com/Mayssa-Ghouma">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Data+Engineering+Student+%F0%9F%8E%93;Big+Data+%26+Data+Warehousing+%F0%9F%97%84%EF%B8%8F;Business+Intelligence+%26+Analytics+%F0%9F%93%8A;Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
